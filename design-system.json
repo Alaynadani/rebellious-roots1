@@ -1,0 +1,22 @@
+{
+  "project": "Rebellious Roots Salon Redesign",
+  "projectId": "17317929473993925641",
+  "screenId": "asset-stub-assets_d476e177e35e47d49a831e2801dab53a",
+  "colors": {
+    "primary": "#14B8A6",
+    "secondary": "#F7C6D0",
+    "tertiary": "#0D9488",
+    "neutral": "#121214"
+  },
+  "typography": {
+    "headline": "Playfair Display",
+    "body": "Manrope",
+    "label": "Manrope"
+  },
+  "icons": ["home", "search", "person", "edit", "auto_fix_high", "category", "sell", "delete"],
+  "imageFiles": {
+    "logo": "../assets/images/rebellious-roots-logo.jpg",
+    "editorialPortrait": "../assets/images/editorial-salon-portrait.jpg",
+    "texturedTransformation": "../assets/images/textured-hair-transformation.jpg"
+  }
+}
